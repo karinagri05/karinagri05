@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 
 
 ## ✍️ Проекты
-<p> Проект 1: Калькулятор юнит-экономики онлайн-школы</p>
+### Проект 1️⃣: Online cinema unit economy calculator
+#### Что нужно было сделать:
 <p>Что нужно было сделать:<p>
 <ol>
   <li>Задача №1</li>

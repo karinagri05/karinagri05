@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 ## Навыки и технологии
 - Инструменты анализа данных: ``SQL``, ``Excel``: 
-- Языки программирования и библиотеки: ``Python``, ``Pandas``, ``math`` 
+- Языки программирования и библиотеки: ``Python``, ``Pandas``, ``math``, ``NumPy``, ``Scipy``,
 - Системы управления базами данных: ``MySQL``, ``PostgreSQL``
-- Средства визуализации данных: ``PowerBi``, ``Matplotlib``, ``seaborn``
-- Инструменты для машинного обучения: ``scikit-learn``, ``TensorFlow``
+- Средства визуализации данных: ``PowerBI``, ``Matplotlib``, ``seaborn``
+
 
 
 

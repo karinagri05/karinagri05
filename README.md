@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <br>
 
 ## Навыки и технологии
-- Инструменты анализа данных: ``SQL``, ``Excel``: 
-- Языки программирования и библиотеки: ``Python``, ``Pandas``, ``math``, ``NumPy``, ``Scipy``,
+- Инструменты анализа данных: ``SQL``, ``Excel``
+- Языки программирования и библиотеки: ``Python``, ``Pandas``, ``math``, ``NumPy``, ``Scipy``
 - Системы управления базами данных: ``MySQL``, ``PostgreSQL``
 - Средства визуализации данных: ``PowerBI``, ``Matplotlib``, ``seaborn``
 

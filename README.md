@@ -127,6 +127,5 @@ Here are some ideas to get you started:
 </ol>
 
 ## Контактная информация
-- Email: name@email.com
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+- Email: karina2000grig@mail.ru
+- Личный сайт: http://t.me/grig_karina

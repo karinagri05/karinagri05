@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 
 
 > <a href="https://docs.google.com/presentation/d/13FEhcG3LkQPQICJjCt5iCVOlbMui11wM/edit#slide=id.p7">Ссылка на проект</a>
-  (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
 
 #### Выводы:
 <ol>

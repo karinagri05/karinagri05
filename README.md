@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <li>Проанализировала активность пользователей по дням недели и времени суток, что позволило составить ряд рекомендаций для бизнеса.</li>
 
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx">Ссылка на проект</a>
+> <a href="https://docs.google.com/presentation/d/13FEhcG3LkQPQICJjCt5iCVOlbMui11wM/edit#slide=id.p7">Ссылка на проект</a>
   (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
 
 #### Выводы:

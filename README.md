@@ -83,6 +83,9 @@ Here are some ideas to get you started:
 <br> 
 
 > <a href="https://docs.google.com/document/d/1KcSmRv8NOIO2uY57ye0Vav6pJNRSB08K9ctrennSevg/edit">Ссылка на код</a>
+
+</ol>
+
 > <a href="https://docs.google.com/spreadsheets/d/1r9ksn-AFldo5eUZW4YNWY3_YPoflt_fd/edit#gid=1488360451">Ссылка на выводы</a>
 
 
@@ -114,6 +117,9 @@ Here are some ideas to get you started:
 <br> 
 
 > <a href="https://drive.google.com/file/d/1upxr1RzxlTfvaK36y9-BmhxDdG8sOe40/view?usp=sharing">Ссылка на код</a>
+
+</ol>
+
 > <a href="https://docs.google.com/spreadsheets/d/1F7IjEjfITa4G-ro0iR6XbLA8hk1sMbTa/edit?usp=sharing&ouid=113881805584822489931&rtpof=true&sd=true">Ссылка на калькулятор</a> 
 
 #### Выводы:

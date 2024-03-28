@@ -82,7 +82,8 @@ Here are some ideas to get you started:
   <li>Визуализировала результаты и сделала заключение.</li>
 <br> 
 
-> <a href="https://docs.google.com/document/d/1KcSmRv8NOIO2uY57ye0Vav6pJNRSB08K9ctrennSevg/edit">Ссылка на проект</a>
+> <a href="https://docs.google.com/document/d/1KcSmRv8NOIO2uY57ye0Vav6pJNRSB08K9ctrennSevg/edit">Ссылка на код</a>
+> <a href="https://docs.google.com/spreadsheets/d/1r9ksn-AFldo5eUZW4YNWY3_YPoflt_fd/edit#gid=1488360451">Ссылка на выводы</a>
 
 
 #### Выводы:
